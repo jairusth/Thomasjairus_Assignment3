@@ -10,7 +10,7 @@ div a{
 	color: white; 
 	background-color: red;
 	text-decoration: none;
-	padding-left: 200px;
+	margin-left: 200px;
 }
 
 div a:hover{
