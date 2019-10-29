@@ -7,15 +7,15 @@ header{
 }
 
 div a{
-	color: white; 
-	background-color: red;
+	color: black; 
+	background-color: orange;
 	text-decoration: none;
 	margin-left: 300px;
 }
 
 div a:hover{
-	color: red;
-	background-color: white;
+	color: black;
+	background-color: orange;
 	text-decoration: none;
 	transition: 2s;
 }
