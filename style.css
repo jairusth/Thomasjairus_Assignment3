@@ -23,3 +23,7 @@ div a:hover{
 h1{
 	text-align: center;
 }
+
+iframe{
+	position: center;
+}
