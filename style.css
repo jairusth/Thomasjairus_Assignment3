@@ -19,3 +19,7 @@ div a:hover{
 	text-decoration: none;
 	transition: 2s;
 }
+
+h1{
+	text-align: center;
+}
